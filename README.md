@@ -5,9 +5,9 @@
 
 **Pull Request:** [#1 — Enhance GridSense AI with model refinements and dashboard improvements](https://github.com/IsraelTAIWO/gridsense-ai/pull/1)
 
-**Commit:** [`a13274f`](https://github.com/IsraelTAIWO/gridsense-ai/pull/1/changes/a13274fa141119e170103516d2d972664b13f3dd)
+**Status:** Merged 12 August 2026
 
-**Status:** Pull request opened 7 August 2026
+**Merge commit:** [`68c7073`](https://github.com/IsraelTAIWO/gridsense-ai/commit/68c7073d6dd0c95578280a8b90227afa605779c7)
 
 An AI-powered geospatial decision-support dashboard that detects anomalous power plant performance in Nigeria's electricity sector, built for the AI Now Data Science and Machine Learning Bootcamp, then substantially redeveloped post-bootcamp.
 
